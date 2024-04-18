@@ -1,0 +1,7 @@
+.terraform
+*.tfstate*
+kubeconfig
+devops-toolkit
+charts
+ca
+credentials

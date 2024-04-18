@@ -1,0 +1,29 @@
+/tmp
+/keys
+/cluster
+/secrets
+/kops-creds
+/kops/creds
+/prod.yml
+/cd/docker-build/.vagrant
+/cd/docker-build/*.log
+/helm/jenkins/*.lock
+/helm/jenkins2/*.lock
+/kubeconfig
+# terraform
+/terraform/terraform.tf*
+/terraform/*.pem
+/terraform/plan
+/terraform/.terraform
+/terraform/k8s-key*
+/terraform/*.log
+/terraform/admin.conf
+/helm/jenkins/charts/*.tgz
+terraform.tfstate
+*/.DS_Store
+/zones
+/myvalues.yaml
+/charts/istio*
+/account.json
+# ides
+.idea
